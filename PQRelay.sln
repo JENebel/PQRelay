@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PQRelay", "PQRelay\PQRelay.csproj", "{822B046C-97B7-4F34-BE0C-79680040825C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RelayConsoleServer", "RelayConsoleServer\RelayConsoleServer.csproj", "{6675B6D2-A130-4A18-83B5-6570E1884DD3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RelayTest", "RelayTest\RelayTest.csproj", "{32CB2930-533C-49B1-BD4E-E412B9E634AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM64 = Debug|ARM64
+		Release|Any CPU = Release|Any CPU
+		Release|ARM64 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{822B046C-97B7-4F34-BE0C-79680040825C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{822B046C-97B7-4F34-BE0C-79680040825C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{822B046C-97B7-4F34-BE0C-79680040825C}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{822B046C-97B7-4F34-BE0C-79680040825C}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{822B046C-97B7-4F34-BE0C-79680040825C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{822B046C-97B7-4F34-BE0C-79680040825C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{822B046C-97B7-4F34-BE0C-79680040825C}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{822B046C-97B7-4F34-BE0C-79680040825C}.Release|ARM64.Build.0 = Release|Any CPU
+		{6675B6D2-A130-4A18-83B5-6570E1884DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6675B6D2-A130-4A18-83B5-6570E1884DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6675B6D2-A130-4A18-83B5-6570E1884DD3}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{6675B6D2-A130-4A18-83B5-6570E1884DD3}.Debug|ARM64.Build.0 = Debug|ARM64
+		{6675B6D2-A130-4A18-83B5-6570E1884DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6675B6D2-A130-4A18-83B5-6570E1884DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6675B6D2-A130-4A18-83B5-6570E1884DD3}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{6675B6D2-A130-4A18-83B5-6570E1884DD3}.Release|ARM64.Build.0 = Release|Any CPU
+		{32CB2930-533C-49B1-BD4E-E412B9E634AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CB2930-533C-49B1-BD4E-E412B9E634AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CB2930-533C-49B1-BD4E-E412B9E634AE}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{32CB2930-533C-49B1-BD4E-E412B9E634AE}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{32CB2930-533C-49B1-BD4E-E412B9E634AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CB2930-533C-49B1-BD4E-E412B9E634AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32CB2930-533C-49B1-BD4E-E412B9E634AE}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{32CB2930-533C-49B1-BD4E-E412B9E634AE}.Release|ARM64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D328310-6715-45FB-A2F6-10E7C3FA4768}
+	EndGlobalSection
+EndGlobal
